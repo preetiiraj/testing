@@ -30,7 +30,9 @@ Please find the technical specification of these nodes is available at **FILE.MD
 
 When producing a publication or public presentation, please be so kind as to inform us (send an email to hep-wheel@caltech.edu for accounting purposes. Please include the following latex acknowledgment for support.
 
+```{r set-options, echo=FALSE, cache=FALSE}
 Part of this work was conducted at  "\textit{Caltech-SDN}", the SDN cluster at Caltech. We acknowledge Supermicro, Dell, Arista, and EdgeCore for supporting “\textit{Caltech-SDN}”.
+```
 
 ## Account Creation/Project Start
 
@@ -46,6 +48,8 @@ If you are planning to work on a new project in the SDN cluster, then please be 
 |NDISE/SANDIE|YuanHao Wu, Catalin, Edmund, Harvey|Catalin, Raimondas
 |SENSE Development and SENSE-Rucio Integration|Justas, Tom, Xi, Harvey, Aashay|Justas, Preeti
 |PRP Kubernetes|John G, Dima M| | Support in case of power/network issues
+
+
 
 
 
